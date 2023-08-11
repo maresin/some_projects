@@ -1,4 +1,4 @@
-# Проект: [Донорская справка](https://github.com/maresin/some_projects/blob/main/Form405_OCR/donor_ocr_notebook.ipynb)
+# Проект: ["Донорская справка"](https://github.com/maresin/some_projects/blob/main/Form405_OCR/donor_ocr_notebook.ipynb)
 __Задача:__  
 Распознать содержание справки о сдаче крови для социальной сети доноров _DonorSearch_.  
 
