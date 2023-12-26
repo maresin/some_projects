@@ -28,5 +28,5 @@ __Инструкция по использованию:__
 * при первом запуске скрипта должны загрузиться файлы модели `cyrillic_g2.pth` и `craft_mlt_25k.pth`([можно взять отсюда](https://drive.google.com/file/d/10XZjccbG53hgLTqGCoyjRToD4Cfa-EQV/view?usp=sharing)). В Windows они будут сохранены в папку `c:\Users\<Имя пользователя>\.EasyOCR\model\`. 
 
 
-__Благодарности:__
+__Благодарности:__  
 Получено [Благодарственное письмо](https://github.com/maresin/some_projects/blob/main/Form405_OCR/thanksgiving_letter.pdf) за участие в разработке от заказчика проекта.
